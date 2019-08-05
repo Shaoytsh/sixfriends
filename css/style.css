@@ -596,7 +596,7 @@ h6 {
 }
 
 .head_title {
-    background: url(../images/slider/slider_bg_patt_blue.jpg) repeat;
+    background: url(../images/slider/slider_bg_patt_blue.png) repeat;
     border-bottom: 6px solid #f1f1f1;
     border-top: 6px solid #f1f1f1;
     color: #6f6f6f;
@@ -1947,7 +1947,7 @@ dt {
 }
 
 .slider {
-    background: url(../images/slider/slider_bg_patt_blue.jpg) repeat;
+    background: url(../images/slider/slider_bg_patt_blue.png) repeat;
     border-bottom: 6px solid #eaeaea;
     border-top: 6px solid #eaeaea;
     height: 460px;
